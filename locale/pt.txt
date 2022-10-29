@@ -1,0 +1,27 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = de A a Z, completa pra você!
+
+### Title
+tour.name = Brazin Xpress
+
+## Media
+
+### Title
+panorama_35F5758C_2214_9172_41AF_DB598FDAD643.label = FOTO_3135
+panorama_35F907B1_2217_9092_41B5_7D2A31F5355D.label = FOTO_3139
+panorama_35F92733_2217_9197_41B0_4203995A0055.label = FOTO_3136
+panorama_35F9976F_2217_918E_41C0_D26AF0449930.label = FOTO_3137
+panorama_35F9E7C8_2217_90F1_41AB_3FE925E66BA5.label = FOTO_3138
+panorama_3B590E8E_2214_F371_41AD_25347F48E24E.label = FOTO_3132
+
+## Action
+
+### URL
+LinkBehaviour_30CEA16E_25C6_614E_41B9_72D3DBF46A7D.source = https://goo.gl/maps/L1UPgVyKA4nPizwg8
+LinkBehaviour_31C6AF82_25C6_A1B1_419B_BCA0B2ABDC2F.source = https://www.instagram.com/brazin_xpress/
+LinkBehaviour_31EA1867_25DE_AF7E_41BF_BA98FE7B9832.source = https://www.instagram.com/brazin_xpress/
+LinkBehaviour_367B43FC_25C2_A152_41C2_A604C9B6FDEF.source = https://goo.gl/maps/L1UPgVyKA4nPizwg8
